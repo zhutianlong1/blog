@@ -9,8 +9,6 @@ abbrlink: a0f4bf82
 date: 2025-02-06 10:30:34
 ---
 
-# 常用 Hexo 命令
-
 Hexo 是一个静态博客框架，以下是一些常用的 Hexo 命令：
 
 ## 1. `hexo init`
