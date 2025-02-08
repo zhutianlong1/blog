@@ -1,5 +1,5 @@
 ---
-title: Day 1
+title: 牛津高频3000词：Day 1
 categories:
   - learn
   - english
@@ -8,6 +8,7 @@ tags:
   - 学习记录
 abbrlink: afac4e02
 date: 2025-01-23 9:00:00
+series: 牛津高频3000词
 ---
 
 ## 单词

@@ -1,5 +1,5 @@
 ---
-title: Day 3
+title: 牛津高频3000词：Day 3
 categories:
   - learn
   - english
@@ -8,6 +8,7 @@ tags:
   - 学习记录
 abbrlink: eeb8bf0f
 date: 2025-01-26 09:00:00
+series: 牛津高频3000词
 ---
 
 1. **classic** - **classic example** - 经典例子

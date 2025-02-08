@@ -1,5 +1,5 @@
 ---
-title: Day 2
+title: 牛津高频3000词：Day 2
 categories:
   - learn
   - english
@@ -8,6 +8,7 @@ tags:
   - 学习记录
 abbrlink: 77b1eeb5
 date: 2025-01-24 09:00:00
+series: 牛津高频3000词
 ---
 
 ## 单词
