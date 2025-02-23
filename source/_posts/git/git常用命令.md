@@ -21,8 +21,8 @@ git文件的四种状态：
 ## 基础配置
 
 ``` powershell
-$ git config --global user.name "nick.zhu"
-$ git config --global user.email nick.zhu@shaiyang.cn
+$ git config --global user.name "Tianlong Zhu"
+$ git config --global user.email zhutianlong282@gmail.com
 # 查看配置
 $ git config --list
 ```
